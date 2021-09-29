@@ -1,0 +1,43 @@
+*{
+    margin:0;
+}
+body{
+    background-color:beige;
+    font-family: 'Roboto', sans-serif;
+    font-size:1.5rem;
+}
+header{
+    background-color: aqua;
+    min-height: 3em;
+    text-align: center;
+    margin-bottom: 3em;
+}
+#main-sec{
+    width: 50%;
+    margin:auto;
+
+
+}
+input,label{
+
+    display: block;
+    margin-top:1.5rem;
+    
+}
+#check-btn{
+    margin:auto;
+    margin-top: 3rem;
+    display: block;
+    width:10vw;
+    border-radius: 5rem;
+    background-color: aqua;
+    color:blue;
+}
+input{
+    width:100%;
+    height:1.5rem;
+}
+p{
+    text-align:center;
+    margin-top: 1rem;
+}
